@@ -1,4 +1,4 @@
-# afate - GamePong
+# Agate - GamePong
 
 This is a very basic Pong game made in Unity. It has its own rules, yet similar to the original game. Also the ball is a ball, not a square. And it's red.
 
