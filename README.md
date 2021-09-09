@@ -13,7 +13,6 @@ There is no need to install the game. The build version of the game is in the bu
 ## Features & Keybinds
 
 - This is a 2 player game, although you can play it by yourself...
-- The rules are simple, don't let the ball get past your racket.
 - You can use a power up to temporarily increase the size of your racket. It also has a cooldown.
 - Controls:
   - Player 1: Left Side
