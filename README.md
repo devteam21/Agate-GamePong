@@ -1,6 +1,6 @@
 # Agate - GamePong
 
-This is a very basic Pong game made in Unity. It has its own rules, yet similar to the original game. Also the ball is a ball, not a square. And it's red.
+This is a very basic Pong game made in Unity 2018.3.3 It has its own rules, yet similar to the original game. Also the ball is a ball, not a square. And it's red.
 
 This game is made as a study in game development, presented by Agate Academy.
 
@@ -13,7 +13,6 @@ There is no need to install the game. The build version of the game is in the bu
 ## Features & Keybinds
 
 - This is a 2 player game, although you can play it by yourself...
-- You can use a power up to temporarily increase the size of your racket. It also has a cooldown.
 - Controls:
   - Player 1: Left Side
     - Up: W
