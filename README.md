@@ -10,6 +10,9 @@ This game is made as a study in game development, presented by Agate Academy.
 
 There is no need to install the game. The build version of the game is in the build folder. All you have to do is just run the .exe file, setup your prefered resolution size, and the game runs right away it. Windowed mode is recommended to close the game easily since there's no exit button in the game.
 
+## Demo
+https://www.youtube.com/watch?v=MbnCBZjCDI8
+
 ## Features & Keybinds
 
 - This is a 2 player game, although you can play it by yourself...
